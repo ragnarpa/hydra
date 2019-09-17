@@ -94,7 +94,6 @@ Hydra service nodes are configured as backend nodes in HAProxy under dedicated b
 * Dynamic management of HAProxy backends
 * Security
 * Various TODO items in code
-* Open sourcing the project
 
 # Setup of test cluster
 
